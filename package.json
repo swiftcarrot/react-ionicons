@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "NODE_ENV=production yarn clean && yarn build-icons && yarn build-index && rollup -c",
+    "test": "npm run build",
     "build-icons": "mkdir -p src && svgr --filename-case kebab -d src `node -e \"console.log(path.resolve(require.resolve('ionicons'), '../ionicons/svg'))\"`",
     "build-index": "node build.js > src/index.js",
     "clean": "rm -rf src && rm -rf dist",
@@ -25,7 +26,11 @@
     "babel-preset-zkit": "^0.3.0",
     "fast-glob": "^2.2.6",
     "ionicons": "^4.5.5",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "rollup": "^1.6.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-commonjs": "^9.2.1",
+    "rollup-plugin-node-resolve": "^4.0.1"
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4"

@@ -1,7 +1,7 @@
 # ionicons
 
 ```javascript
-import { IosAddCircleOutline } from 'zkit-ionicons';
+import { IosAddCircleOutline } from '@xkit/ionicons';
 
 // fill: currentColor
 // <IosAddCircleOutline /> => <svg />

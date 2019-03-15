@@ -1,5 +1,5 @@
 {
-  "name": "zkit-ionicons",
+  "name": "@xkit/ionicons",
   "version": "0.1.21",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -29,5 +29,19 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/ionicons.git"
+  },
+  "keywords": [
+    "react-component",
+    "icon",
+    "svg",
+    "ionicons"
+  ],
+  "bugs": {
+    "url": "https://github.com/wangzuo/ionicons/issues"
+  },
+  "homepage": "https://github.com/wangzuo/ionicons#readme"
 }

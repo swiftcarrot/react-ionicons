@@ -3,7 +3,7 @@
   "version": "0.1.21",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
-  "description": "ionicons react component",
+  "description": "ionicons svg component for react",
   "files": [
     "dist"
   ],

@@ -21,6 +21,6 @@ yarn add @xkit/ionicons
 import { IosAddCircleOutline } from '@xkit/ionicons';
 ```
 
-## License
+### License
 
 MIT

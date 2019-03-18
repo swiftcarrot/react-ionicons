@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/wangzuo/react-ionicons.svg?branch=master)](https://travis-ci.org/wangzuo/react-ionicons)
 [![codecov](https://codecov.io/gh/wangzuo/react-ionicons/branch/master/graph/badge.svg)](https://codecov.io/gh/wangzuo/react-ionicons)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Greenkeeper badge](https://badges.greenkeeper.io/wangzuo/react-ionicons.svg)](https://greenkeeper.io/)
 
 ionicons svg component for react
 
@@ -16,8 +17,6 @@ yarn add @xkit/ionicons
 ```
 
 ### Usage
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/wangzuo/react-ionicons.svg)](https://greenkeeper.io/)
 
 ```javascript
 import { IosAddCircleOutline } from '@xkit/ionicons';

@@ -1007,10 +1007,10 @@ babel-plugin-transform-react-remove-prop-types@^0.4.24:
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.24.tgz#f2edaf9b4c6a5fbe5c1d678bfb531078c1555f3a"
   integrity sha512-eqj0hVcJUR57/Ug2zE1Yswsw4LhuqqHhD+8v120T1cl3kjg76QwtyBrdIk4WVwK+lAhBJVYCd/v+4nc4y+8JsA==
 
-babel-preset-zkit@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/babel-preset-zkit/-/babel-preset-zkit-0.3.0.tgz#1c52772b5a2e77800a9b66ea09474c18ba0e2bf4"
-  integrity sha512-GjOg8uqXLQu5auo4PXiT2LEamOh5O/peeG0uSGHt82UMfsgPNskjlmc3iG5D03iwXQXW4KO7zxPnnB1mOfZkgQ==
+babel-preset-zkit@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/babel-preset-zkit/-/babel-preset-zkit-0.4.0.tgz#e8f60c1a265c22f0fb85a1feaa4dfcbc1a081143"
+  integrity sha512-2YZSNyj5MImQIqsdXeWfRM25e1z80nYQ6NgezesA3vGc/DRMmR3mfk2DOyuxbSVgoSse3YkT3o5PAyISZQqqAQ==
   dependencies:
     "@babel/core" "^7.3.4"
     "@babel/plugin-proposal-class-properties" "^7.3.4"

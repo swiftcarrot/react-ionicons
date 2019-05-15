@@ -1,5 +1,5 @@
 {
-  "name": "@xkit/ionicons",
+  "name": "@swiftcarrot/ionicons",
   "version": "0.2.1",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",

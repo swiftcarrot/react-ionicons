@@ -1,25 +1,25 @@
 # react-ionicons
 
-[![npm](https://img.shields.io/npm/v/@xkit/ionicons.svg)](https://www.npmjs.com/package/@xkit/ionicons)
-[![npm](https://img.shields.io/npm/dm/@xkit/ionicons.svg)](https://www.npmjs.com/package/@xkit/ionicons)
-[![Build Status](https://travis-ci.org/wangzuo/react-ionicons.svg?branch=master)](https://travis-ci.org/wangzuo/react-ionicons)
-[![codecov](https://codecov.io/gh/wangzuo/react-ionicons/branch/master/graph/badge.svg)](https://codecov.io/gh/wangzuo/react-ionicons)
+[![npm](https://img.shields.io/npm/v/@swiftcarrot/ionicons.svg)](https://www.npmjs.com/package/@swiftcarrot/ionicons)
+[![npm](https://img.shields.io/npm/dm/@swiftcarrot/ionicons.svg)](https://www.npmjs.com/package/@swiftcarrot/ionicons)
+[![Build Status](https://travis-ci.org/swiftcarrot/react-ionicons.svg?branch=master)](https://travis-ci.org/swiftcarrot/react-ionicons)
+[![codecov](https://codecov.io/gh/swiftcarrot/react-ionicons/branch/master/graph/badge.svg)](https://codecov.io/gh/swiftcarrot/react-ionicons)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/wangzuo/react-ionicons.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/swiftcarrot/react-ionicons.svg)](https://greenkeeper.io/)
 
 ionicons svg component for react
 
 ### Installation
 
 ```sh
-npm install @xkit/ionicons --save
-yarn add @xkit/ionicons
+npm install @swiftcarrot/ionicons --save
+yarn add @swiftcarrot/ionicons
 ```
 
 ### Usage
 
 ```javascript
-import { IosAddCircleOutline } from '@xkit/ionicons';
+import { IosAddCircleOutline } from '@swiftcarrot/ionicons';
 ```
 
 ### License

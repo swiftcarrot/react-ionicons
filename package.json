@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangzuo/ionicons.git"
+    "url": "git+https://github.com/swiftcarrot/react-ionicons.git"
   },
   "keywords": [
     "react-component",
@@ -45,7 +45,7 @@
     "ionicons"
   ],
   "bugs": {
-    "url": "https://github.com/wangzuo/ionicons/issues"
+    "url": "https://github.com/swiftcarrot/react-ionicons/issues"
   },
-  "homepage": "https://github.com/wangzuo/ionicons#readme"
+  "homepage": "https://github.com/swiftcarrot/react-ionicons#readme"
 }

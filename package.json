@@ -23,16 +23,16 @@
   "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me)",
   "license": "MIT",
   "devDependencies": {
-    "@svgr/cli": "^4.1.0",
-    "babel-preset-swiftcarrot": "^0.6.1",
-    "fast-glob": "^2.2.6",
-    "ionicons": "^4.5.5",
+    "@svgr/cli": "^4.3.0",
+    "babel-preset-swiftcarrot": "^0.7.0",
+    "fast-glob": "^3.0.2",
+    "ionicons": "^4.5.8",
     "lodash": "^4.17.11",
-    "rollup": "^1.6.0",
-    "rollup-plugin-babel": "^4.3.2"
+    "rollup": "^1.16.2",
+    "rollup-plugin-babel": "^4.3.3"
   },
   "dependencies": {
-    "@babel/runtime": "^7.3.4"
+    "@babel/runtime": "^7.4.5"
   },
   "repository": {
     "type": "git",

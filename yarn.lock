@@ -1555,9 +1555,9 @@ invariant@^2.2.2:
     loose-envify "^1.0.0"
 
 ionicons@^4.5.8:
-  version "4.5.8"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.8.tgz#a81177325153e7eaecb9546ee0b7955451743f8e"
-  integrity sha512-Zib/fFGHt+r9tWrvZnrxVj22cO4NVj+ZOb76v5yiOyvb0LSTbbReECDg7lEU8e+YR69qCtWHruStJ+b4G/OWxg==
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.6.2.tgz#5a835b4faf9ba602b3315b9649df0750715b0f6d"
+  integrity sha512-OGQO/GCKFwHh5lX9wYzgfLjuj2rnQavixVgK3iv8nm7tcgYQVHw7MNNwNHY4H97ZlKiVx3qj4X5Txv9fx95oBw==
 
 is-arrayish@^0.2.1:
   version "0.2.1"

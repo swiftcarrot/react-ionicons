@@ -1523,10 +1523,10 @@ invariant@^2.2.2:
   dependencies:
     loose-envify "^1.0.0"
 
-ionicons@^4.6.2:
-  version "4.6.2"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.6.2.tgz#5a835b4faf9ba602b3315b9649df0750715b0f6d"
-  integrity sha512-OGQO/GCKFwHh5lX9wYzgfLjuj2rnQavixVgK3iv8nm7tcgYQVHw7MNNwNHY4H97ZlKiVx3qj4X5Txv9fx95oBw==
+ionicons@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.0.1.tgz#fb48475b042b04b3ed2ba9876800687917d4603d"
+  integrity sha512-P9GHr7pgCJcG211W0wute49NZ9AvJZvFJf4OwYybakjX6j7tu0q5t5HNWn9bcb9YjI7SxBblJg8iqQ1Yb59DXw==
 
 is-arrayish@^0.2.1:
   version "0.2.1"

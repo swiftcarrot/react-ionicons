@@ -21,6 +21,21 @@ yarn add @swiftcarrot/react-ionicons
 import { Accessibility } from '@swiftcarrot/react-ionicons';
 ```
 
+```css
+.ionicon {
+  fill: currentColor;
+  stroke: currentColor;
+}
+
+.ionicon-fill-none {
+  fill: none;
+}
+
+.ionicon-stroke-width {
+  stroke-width: 32px;
+}
+```
+
 ### License
 
 MIT

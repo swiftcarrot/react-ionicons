@@ -11,14 +11,14 @@ ionicons svg component for react
 ### Installation
 
 ```sh
-npm install @swiftcarrot/ionicons --save
-yarn add @swiftcarrot/ionicons
+npm install @swiftcarrot/react-ionicons --save
+yarn add @swiftcarrot/react-ionicons
 ```
 
 ### Usage
 
 ```javascript
-import { IosAddCircleOutline } from '@swiftcarrot/ionicons';
+import { IosAddCircleOutline } from '@swiftcarrot/react-ionicons';
 ```
 
 ### License

@@ -12,10 +12,9 @@
     "access": "public"
   },
   "scripts": {
-    "build": "NODE_ENV=production yarn clean && yarn build-icons && yarn build-index && rollup -c",
+    "build": "NODE_ENV=production yarn clean && yarn build-icons && rollup -c",
     "test": "npm run build",
-    "build-icons": "mkdir -p src && svgr --filename-case kebab -d src `node -e \"console.log(path.resolve(require.resolve('ionicons'), '../ionicons/svg'))\"`",
-    "build-index": "node build.js > src/index.js",
+    "build-icons": "mkdir -p src && svgr --filename-case kebab -d src --no-svgo `node -e \"console.log(path.resolve(require.resolve('ionicons'), '../ionicons/svg'))\"`",
     "clean": "rm -rf src && rm -rf dist",
     "compile": "babel icons --out-dir dist",
     "prepublishOnly": "yarn build"
@@ -23,7 +22,7 @@
   "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me)",
   "license": "MIT",
   "devDependencies": {
-    "@svgr/cli": "^4.3.2",
+    "@svgr/cli": "^6.1.2",
     "babel-preset-swiftcarrot": "^1.0.0",
     "fast-glob": "^3.0.4",
     "ionicons": "^6.0.0",
